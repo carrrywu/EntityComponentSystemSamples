@@ -43,7 +43,7 @@ Burst is a new LLVM-based, math-aware backend compiler. It compiles C# jobs into
 
 ## Installation guide for new projects
 
-1. Create or open a project with the Unity Editor (`2020.1.0b15` or later to use the latest DOTS packages).
+1. Create or open a project with the Unity Editor (`2020.1.9f1` or later to use the latest DOTS packages).
 2. Open the Package Manager (menu: **Window** > **Package Manager**).
 3. Click the small gear icon on the upper right and select the **Advanced Project Settings** menu item.
 4. Check **Enable Preview Packages** in the Project Settings window.
@@ -66,6 +66,15 @@ The ECSSamples project contains samples to help you get started with DOTS. The p
 Unity Physics is a deterministic, rigid-body dynamics system and spatial query system written from the ground up using the Unity data oriented tech stack.
 You can find an [overview of the samples](UnityPhysicsSamples/Documentation/samples.md) and the [release notes](UnityPhysicsSamples/ReleaseNotes.md) in this repository.
 
+## Hybrid HDRP Samples
+
+The HybridHDRPSamples contains feature sample Scenes, stress test Scenes for the HDRP Hybrid Renderer.
+You can find the [overview](HybridHDRPSamples/README.md) and the [release notes](HybridHDRPSamples/ReleaseNotes.md) in this repository.
+
+## Hybrid URP Samples
+
+The HybridURPSamples contains feature sample Scenes, stress test Scenes for the URP Hybrid Renderer.
+You can find the [overview](HybridURPSamples/README.md) and the [release notes](HybridURPSamples/ReleaseNotes.md) in this repository.
 
 ## Documentation
 
